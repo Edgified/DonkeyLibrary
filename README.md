@@ -1,2 +1,11 @@
-# DonkeyLibrary
-A library that makes programming so much easier and orgranized.
+# @edgified/DonkeyLibrary
+
+Removes space from the given string.
+
+
+## Installation
+
+
+```
+$ npm install @edgified/DonkeyLibrary
+```
