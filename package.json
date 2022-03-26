@@ -1,0 +1,19 @@
+{
+  "name": "donkeylibrary",
+  "version": "1.0.0",
+  "description": "A library that makes programming so much easier and orgranized.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Edgified/DonkeyLibrary"
+  },
+  "keywords": [
+    "Donkey",
+    "Library"
+  ],
+  "author": "Edgified",
+  "license": "ISC"
+}
